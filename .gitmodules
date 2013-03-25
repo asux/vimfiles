@@ -202,3 +202,6 @@
 [submodule "bundle/vim-tomorrow-theme"]
 	path = bundle/vim-tomorrow-theme
 	url = git://github.com/chriskempson/vim-tomorrow-theme.git
+[submodule "bundle/vim-command-t"]
+	path = bundle/vim-command-t
+	url = git://github.com/wincent/Command-T.git
