@@ -199,3 +199,6 @@
 [submodule "bundle/vim-ruby-run"]
 	path = bundle/vim-ruby-run
 	url = https://github.com/stjernstrom/vim-ruby-run
+[submodule "bundle/vim-tomorrow-theme"]
+	path = bundle/vim-tomorrow-theme
+	url = git://github.com/chriskempson/vim-tomorrow-theme.git
